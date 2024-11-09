@@ -1,0 +1,17 @@
+# Hidden files
+commands.cql
+topics.txt
+
+# Jupyter notebooks files
+
+
+# dotenv environment variables file
+.env
+.env.*
+!.env.example
+
+.cache
+**/.cache
+
+.idea
+.vscode
