@@ -1,5 +1,5 @@
 // 1. List Keyspaces
-// The DESCRIBE KEYSPACES or SHOW KEYSPACES command is used to list all the available keyspaces in your Cassandra cluster.
+// The DESCRIBE KEYSPACES command is used to list all the available keyspaces in your Cassandra cluster.
 
 DESCRIBE KEYSPACES;
 
