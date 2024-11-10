@@ -1,5 +1,5 @@
-# A workshop on Python
-This repository consists of basic introduction of python and its application to below contexts
+# An Exploration of Cassandra Database
+<!-- This repository consists of basic introduction of python and its application to below contexts
 <ul>
   <li>Python with MySQL (CRUD (Create, Read, Update and Delete) operations), enforcing ACID (Atomaticity, Consistency, Insolation and Durability) properties, and building a web application</li>
   <li>Hands on experiments with web swcrapping and data visualization </li>
@@ -20,5 +20,5 @@ Refer [Introduction to Machine Learning](https://github.com/robaita/introduction
   <li>Introduction to Artificial Neural Network</li>
   <li>Face Recognition with ANN</li>
  </ul>
-<hr>
-[Please fill this](https://docs.google.com/spreadsheets/d/1k1r24pMgLLHSvdzhJcvyQse7jdXZ430_ISGpRvcwCjo/edit?gid=0#gid=0)
+<hr> -->
+
