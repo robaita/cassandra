@@ -15,7 +15,17 @@ This repository consists of basic introduction of python and its application to 
 <hr> 
 
 # How to install Docker
-Refer [Docker Installation](https://github.com/robaita/cassandra/blob/master/commands/1.%20docker_installation.cql) for docker installation.
+<ul>
+<li>
+Refer [Docker Installation](https://github.com/robaita/cassandra/blob/master/commands/1.%20docker_installation.cql) for docker installation on Linux Systems.
+</li>
+<li>
+Refer [Docker Installation](https://github.com/robaita/cassandra/blob/master/commands/2.%20docker_mac%20installation.cql) for docker installation on MAC Systems.
+</li>
+<li>
+Refer [Download Docker](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*olcq68*_gcl_au*OTU0OTYxNzUuMTczNTI3OTk4NA..*_ga*MzY2NDk2Njg5LjE3MzUyNzk5ODQ.*_ga_XJWPQMJYHQ*MTczNjU5MTA5OS4yLjEuMTczNjU5MjI3My42MC4wLjA.) for docker installation on Windows Systems.
+</li>
+<ul>
 
 ## Follow the below commands to make docker up
 <ul>
