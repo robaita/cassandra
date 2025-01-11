@@ -1,21 +1,50 @@
 # An Exploration of Cassandra Database
-<!-- This repository consists of basic introduction of python and its application to below contexts
+
+This repository consists of basic introduction of python and its application to below contexts
 <ul>
-  <li>Python with MySQL (CRUD (Create, Read, Update and Delete) operations), enforcing ACID (Atomaticity, Consistency, Insolation and Durability) properties, and building a web application</li>
-  <li>Hands on experiments with web swcrapping and data visualization </li>
-  <li>Working with images and Audio Files</li>
-  <ul>
-    <li> [Installing Python](https://github.com/robaita/introduction_to_machine_learning/blob/main/Python_Installation.md) </li>
-  </ul>
+  <li>How to install Docker and Get the Cassandra Terminal</li>
+  <li>Create Keyspaces in Cassandra </li>
+  <li>Creating and Deleting Tables</li>
+  <li>Select command to search and retieve records</li>
+  <li>Insert and Update Queries</li>
+  <li>Creating and Deleting Tables</li>
+  <li>Batch Execution</li>
+  <li>Copy data from external sources</li>
+  <li>Adding new machine (Node) into the cluster</li>
  </ul>
 <hr> 
-Refer [Introduction to Machine Learning](https://github.com/robaita/introduction_to_machine_learning) for building machine learning applications with python. The repository would help you in understanding the below topics.
+
+# How to install Docker
+Refer [Docker Installation](https://github.com/robaita/cassandra/blob/master/commands/1.%20docker_installation.cql) for docker installation.
+
+## Follow the below commands to make docker up
 <ul>
-  <li>Mathematics behind Machine Learning</li>
-  <li>Linear Algebra</li>
-  <li>Face Recognition Implementation - from scratch</li>
+  <li>Start Cassandra with a docker run command:
+  <ul>
+      <li>
+    docker run --name cass_cluster cassandra:latest
+    </li>
+  </ul>
+  </li>
+  <li>Mount a folder into docker and start cassandra
+  <ul>
+    <li>
+    docker run -d --name cass_cluster -v <Folder_path>:/data cassandra
+    </li>
+  </ul>
+  </li>
+  <li>To get CQLSH command terminal
+  <ul>
+      <li>
+    docker exec -it cass_cluster cqlsh
+    </li>
+  </ul>
+  </li>
+
+  
  </ul>
- <hr> 
+
+ <!-- <hr> 
 <ul>
   <li>Introduction to Artificial Neural Network</li>
   <li>Face Recognition with ANN</li>
