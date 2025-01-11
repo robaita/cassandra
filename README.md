@@ -27,7 +27,7 @@ Refer [Download Docker](https://desktop.docker.com/win/main/amd64/Docker%20Deskt
 </li>
 <ul>
 
-## Follow the below commands to make docker up
+# Follow the below commands to make docker up
 <ul>
   <li>Start Cassandra with a docker run command:
   <ul>
